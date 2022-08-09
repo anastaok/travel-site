@@ -1,9 +1,10 @@
 import React from "react";
 import { Routes, Route } from "react-router-dom";
 
-import Home from "./routes/Home";
-import Pricing from "./routes/Pricing";
-import Training from "./routes/Training";
+// import Home from "./routes/Home";
+// import Pricing from "./routes/Pricing";
+// import Training from "./routes/Training";
+import { Home, Pricing, Training } from "./routes";
 
 function App() {
   return (
