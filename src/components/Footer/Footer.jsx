@@ -54,7 +54,7 @@ const Footer = () => {
             rerum qui nostrum"
           </p>
           <div className="social">
-            <a href=" ">
+            <a href=" " style={{ width: "30px", height: "30px" }}>
               <FaFacebook
                 size={30}
                 style={{ color: "#fff", marginRight: "1rem" }}
